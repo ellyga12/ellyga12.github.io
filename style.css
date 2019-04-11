@@ -1,0 +1,41 @@
+h1 { font-family:cursive; text-align: center; }
+h2 { font-family:Impact, fantasy; text-align: center; color: white; }
+h3 { font-family:Impact, fantasy; color: purple;}
+body {background-color: pink;}
+
+div { border: 1px solid white;}
+
+
+p {
+    border: 1px solid white;
+    padding: 30px;
+    color: midnightblue;
+    font-family: chalkduster, fantasy;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.left {
+    display: block;
+    margin-left: 50px;
+    margin-right: auto;
+    width: 30%;
+}
+
+.right {
+    display: block;
+    margin-left: auto;
+    margin-right: 5px;
+    width: 30%;
+}
+
+ul {font-family: chalkduster, fantasy;}
+
+div {font-family: chalkduster, fantasy;
+color: midnightblue}
+
